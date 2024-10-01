@@ -1,0 +1,24 @@
+# Ignore all files in obj folder (and subfolders)
+obj/**
+
+# Ignore bin folder (common for .NET projects)
+bin/**
+
+# Ignore Visual Studio-related files
+.vs/
+*.user
+*.suo
+
+# Ignore log files
+*.log
+
+# Ignore build artifacts and compiled files
+*.dll
+*.exe
+*.pdb
+
+# Ignore temporary files
+*.tmp
+*.cache
+*.bak
+*.swp
